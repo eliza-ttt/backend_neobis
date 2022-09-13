@@ -1,4 +1,4 @@
-# It's my sql problems in URI and Hibernack
+# It's my sql solved problems in URI and Hibernack
 ## I made a report in the form of a photo
 
 
