@@ -1,5 +1,5 @@
 # It's my sql problems in URI and Hibernack
-##I made a report in the form of a photo
+## I made a report in the form of a photo
 
 
 ![hibernack](https://user-images.githubusercontent.com/81631715/189819736-0bee14b7-1237-4b92-b18b-8a8544fdd19b.jpg)
