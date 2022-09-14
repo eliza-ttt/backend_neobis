@@ -42,11 +42,11 @@ CREATE TABLE Products
     FOREIGN KEY (items_id) REFERENCES Car (id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 --Inserted values to table;
-        INSERT INTO Orders (id, users_id, product_name, date_of_order)
-            VALUES (1, 1, 'Macarons', '2022-09-14 14:42:34');
-
         INSERT INTO Users(id, age, first_name, last_name, email, phone)
             VALUES (1, 18, 'Beknazar', 'Abdykalykuulu', 'beknazarabdykalykuulu@gmail.com', '+996555439317');
+
+        INSERT INTO Orders (id, users_id, product_name, date_of_order)
+            VALUES (1, 1, 'Macarons', '2022-09-14 14:42:34');
 
         INSERT INTO Car (id, mark, price, year_of_release, model, color, volume, transmission_type)
 			VALUES (1, 'Mercedes-Benz', 1640000, '2011', 'CAR203142', 'white', 3.2, 'automat');
