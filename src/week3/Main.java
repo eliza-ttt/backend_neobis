@@ -1,5 +1,7 @@
 package week3;
 
+import week4.Car;
+
 public class Main {
     public static void main(String[] args) {
         Donut macarons = new Donut( "Macarons", "white", "150g", 250, "Sabin's macarons");
